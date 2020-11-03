@@ -1,0 +1,52 @@
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\bin\Debug\BL.dll
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\bin\Debug\BL.pdb
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\bin\Debug\BE.dll
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\bin\Debug\DAL.dll
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\bin\Debug\DS.dll
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\bin\Debug\BE.pdb
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\bin\Debug\DAL.pdb
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\bin\Debug\DS.pdb
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\obj\Debug\BL.dll
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\obj\Debug\BL.pdb
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\bin\Debug\BL.dll
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\bin\Debug\BL.pdb
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\bin\Debug\BE.dll
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\bin\Debug\DAL.dll
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\bin\Debug\DS.dll
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\bin\Debug\BE.pdb
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\bin\Debug\DAL.pdb
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\bin\Debug\DS.pdb
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\obj\Debug\BL.dll
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\obj\Debug\BL.pdb
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\bin\Debug\BL.dll
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\bin\Debug\BL.pdb
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\bin\Debug\BE.dll
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\bin\Debug\DAL.dll
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\bin\Debug\DS.dll
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\bin\Debug\BE.pdb
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\bin\Debug\DAL.pdb
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\bin\Debug\DS.pdb
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\obj\Debug\BL.dll
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\obj\Debug\BL.pdb
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\bin\Debug\BL.dll
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\bin\Debug\BL.pdb
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\bin\Debug\BE.dll
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\bin\Debug\DAL.dll
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\bin\Debug\DS.dll
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\bin\Debug\BE.pdb
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\bin\Debug\DAL.pdb
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\bin\Debug\DS.pdb
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\obj\Debug\BL.dll
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\BL\obj\Debug\BL.pdb

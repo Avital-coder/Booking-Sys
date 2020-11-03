@@ -1,0 +1,200 @@
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\bin\Debug\BE.dll
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\bin\Debug\BL.dll
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\bin\Debug\DAL.dll
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\bin\Debug\DS.dll
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\bin\Debug\BE.pdb
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\bin\Debug\BL.pdb
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\bin\Debug\DAL.pdb
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\bin\Debug\DS.pdb
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\AddOrder.g.cs
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\AddRequest.g.cs
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\AddUnitWindow.g.cs
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\DeleteDetails.g.cs
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\DeleteUnit.g.cs
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\HostWindow.g.cs
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\ManagerEnter.g.cs
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\ManagerWindow.g.cs
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\Order.g.cs
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\OrderStatus.g.cs
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PrivateArea.g.cs
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\UpdateDetails.g.cs
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\UpdateUnit.g.cs
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\App.g.cs
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\App.baml
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\AddOrder.baml
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\AddRequest.baml
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\AddUnitWindow.baml
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\DeleteDetails.baml
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\DeleteUnit.baml
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\HostWindow.baml
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\ManagerEnter.baml
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\ManagerWindow.baml
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\Order.baml
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\OrderStatus.baml
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PrivateArea.baml
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\UpdateDetails.baml
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\UpdateUnit.baml
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\tsegal\Downloads\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\bin\Debug\BE.dll
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\bin\Debug\BL.dll
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\bin\Debug\DAL.dll
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\bin\Debug\DS.dll
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\bin\Debug\BE.pdb
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\bin\Debug\BL.pdb
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\bin\Debug\DAL.pdb
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\bin\Debug\DS.pdb
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\AddOrder.g.cs
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\AddRequest.g.cs
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\AddUnitWindow.g.cs
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\DeleteDetails.g.cs
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\DeleteUnit.g.cs
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\HostWindow.g.cs
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\ManagerEnter.g.cs
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\ManagerWindow.g.cs
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\Order.g.cs
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\OrderStatus.g.cs
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PrivateArea.g.cs
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\UpdateDetails.g.cs
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\UpdateUnit.g.cs
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\App.g.cs
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\App.baml
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\AddOrder.baml
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\AddRequest.baml
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\AddUnitWindow.baml
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\DeleteDetails.baml
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\DeleteUnit.baml
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\HostWindow.baml
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\ManagerEnter.baml
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\ManagerWindow.baml
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\Order.baml
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\OrderStatus.baml
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PrivateArea.baml
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\UpdateDetails.baml
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\UpdateUnit.baml
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\Avital\Downloads\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\bin\Debug\BE.dll
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\bin\Debug\BL.dll
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\bin\Debug\DAL.dll
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\bin\Debug\DS.dll
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\bin\Debug\BE.pdb
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\bin\Debug\BL.pdb
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\bin\Debug\DAL.pdb
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\bin\Debug\DS.pdb
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\AddOrder.g.cs
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\AddRequest.g.cs
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\AddUnitWindow.g.cs
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\DeleteDetails.g.cs
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\DeleteUnit.g.cs
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\HostWindow.g.cs
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\ManagerEnter.g.cs
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\ManagerWindow.g.cs
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\Order.g.cs
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\OrderStatus.g.cs
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PrivateArea.g.cs
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\UpdateDetails.g.cs
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\UpdateUnit.g.cs
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\App.g.cs
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\App.baml
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\AddOrder.baml
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\AddRequest.baml
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\AddUnitWindow.baml
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\DeleteDetails.baml
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\DeleteUnit.baml
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\HostWindow.baml
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\ManagerEnter.baml
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\ManagerWindow.baml
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\Order.baml
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\OrderStatus.baml
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PrivateArea.baml
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\UpdateDetails.baml
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\UpdateUnit.baml
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\Avital\Downloads\חדשחדשחש (2)\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\bin\Debug\BE.dll
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\bin\Debug\BL.dll
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\bin\Debug\DAL.dll
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\bin\Debug\DS.dll
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\bin\Debug\BE.pdb
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\bin\Debug\BL.pdb
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\bin\Debug\DAL.pdb
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\bin\Debug\DS.pdb
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\AddOrder.g.cs
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\AddRequest.g.cs
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\AddUnitWindow.g.cs
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\DeleteDetails.g.cs
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\DeleteUnit.g.cs
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\HostWindow.g.cs
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\ManagerEnter.g.cs
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\ManagerWindow.g.cs
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\Order.g.cs
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\OrderStatus.g.cs
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PrivateArea.g.cs
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\UpdateDetails.g.cs
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\UpdateUnit.g.cs
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\App.g.cs
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\App.baml
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\AddOrder.baml
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\AddRequest.baml
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\AddUnitWindow.baml
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\DeleteDetails.baml
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\DeleteUnit.baml
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\HostWindow.baml
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\ManagerEnter.baml
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\ManagerWindow.baml
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\Order.baml
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\OrderStatus.baml
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PrivateArea.baml
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\UpdateDetails.baml
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\UpdateUnit.baml
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\Avital\Downloads\שהחיינו\חדשחדשחש\האור בקצה המנהרה\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\בקרוב חלק ג גמור אמן\12\PLWPF\obj\Debug\PLWPF.pdb

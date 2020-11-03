@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <guestRequestKey>10000005</guestRequestKey>
+  <hostingUnitKey>10000020</hostingUnitKey>
+  <orderKey>10000039</orderKey>
+  <managerPassword>1234</managerPassword>
+  <fee>10</fee>
+  <expireRequestDays>30</expireRequestDays>
+</Config>
